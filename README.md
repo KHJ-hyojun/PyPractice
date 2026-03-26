@@ -1,2 +1,3 @@
-# BarkJoon_practice
- baekjoon practice
+# PyPractice
+ I'm practicing many kind of projects by python. 
+ just PyProgramming, ComputerVision, ROS2...
